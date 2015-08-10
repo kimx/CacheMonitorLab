@@ -76,6 +76,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="create.sql" />
     <Content Include="Demo.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
